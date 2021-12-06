@@ -1,0 +1,14 @@
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\bin\Debug\netcoreapp3.1\Operators-Exercises.exe
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\bin\Debug\netcoreapp3.1\Operators-Exercises.deps.json
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\bin\Debug\netcoreapp3.1\Operators-Exercises.runtimeconfig.json
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\bin\Debug\netcoreapp3.1\Operators-Exercises.runtimeconfig.dev.json
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\bin\Debug\netcoreapp3.1\Operators-Exercises.dll
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\bin\Debug\netcoreapp3.1\Operators-Exercises.pdb
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.csproj.AssemblyReference.cache
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.AssemblyInfoInputs.cache
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.AssemblyInfo.cs
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.csproj.CoreCompileInputs.cache
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.dll
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.pdb
+C:\Users\calla\OneDrive\Desktop\Operators-Exercises\Operators-Exercises\obj\Debug\netcoreapp3.1\Operators-Exercises.genruntimeconfig.cache
